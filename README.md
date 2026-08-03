@@ -1,4 +1,4 @@
-[PROFILE_README_v2.md](https://github.com/user-attachments/files/30655729/PROFILE_README_v2.md)[Uploading PROFILE_READ# Hi there, I'm Arundhathi H! 👋
+Hi there, I'm Arundhathi H! 👋
 
 🎓 **MSc Computational Biology & Bioinformatics (By Research)**
 Yenepoya University, Mangalore, India | Research Intern, REVA University, Bengaluru
