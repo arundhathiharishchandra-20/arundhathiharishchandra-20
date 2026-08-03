@@ -56,12 +56,21 @@ I'm a research student passionate about understanding cancer biology through com
 
 **🧬 [DLBCL Multi-Omics Analysis](https://github.com/arundhathiharishchandra-20/dlbcl-multiomics-analysis)**
 
-... (DLBCL project content) ...
+RNA-seq + WGBS pipeline for multi-omics epigenetic analysis of DLBCL lymphoma (129 patient samples, PRJNA605794)
+
+- FastQC → fastp → HISAT2 → featureCounts → edgeR
+- WGCNA co-expression network (11 modules, hub genes)
+- GO/KEGG pathway enrichment
+- MOFA2 integration *(in progress)*
+
+`Python` `R` `Bash` `WGCNA` `Bismark`
 
 </td>
 <td width="50%" valign="top">
 
 **🧪 [RXRα Fatty Acid Docking](https://github.com/arundhathiharishchandra-20/rxra-fatty-acid-docking)**
+
+In-silico investigation of fatty acid interactions with Retinoid X Receptor Alpha through homology modeling and molecular docking
 
 - Structural modelling via UCSF Chimera
 - 3D models built in Swiss-Model
