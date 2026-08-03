@@ -84,18 +84,6 @@ In-silico investigation of fatty acid interactions with Retinoid X Receptor Alph
 </table>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arundhathiharishchandra-20&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arundhathiharishchandra-20&layout=compact&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 *Open to research and industry opportunities in bioinformatics and computational biology.*
