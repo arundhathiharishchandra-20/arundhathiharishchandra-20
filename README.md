@@ -7,7 +7,7 @@ Yenepoya University, Mangalore, India | Research Intern, REVA University, Bengal
 
 ---
 
-## 🧬 About Me
+🧬 About Me
 
 I am a research student passionate about understanding cancer biology through computational approaches. My dissertation focuses on **integrated multi-omics analysis of epigenetic modalities in Diffuse Large B-Cell Lymphoma (DLBCL)**, combining RNA-seq and Whole Genome Bisulfite Sequencing (WGBS) data. I also work on structural bioinformatics, studying protein-ligand interactions through molecular docking.
 
@@ -19,7 +19,7 @@ I am a research student passionate about understanding cancer biology through co
 
 ---
 
-## 🛠️ Technical Skills
+🛠️ Technical Skills
 
 **Programming Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
