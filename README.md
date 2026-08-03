@@ -56,21 +56,12 @@ I'm a research student passionate about understanding cancer biology through com
 
 **🧬 [DLBCL Multi-Omics Analysis](https://github.com/arundhathiharishchandra-20/dlbcl-multiomics-analysis)**
 
-RNA-seq + WGBS pipeline for multi-omics epigenetic analysis of DLBCL lymphoma (129 patient samples, PRJNA605794)
-
-- FastQC → fastp → HISAT2 → featureCounts → edgeR
-- WGCNA co-expression network (11 modules, hub genes)
-- GO/KEGG pathway enrichment
-- MOFA2 integration *(in progress)*
-
-`Python` `R` `Bash` `WGCNA` `Bismark`
+... (DLBCL project content) ...
 
 </td>
 <td width="50%" valign="top">
 
 **🧪 [RXRα Fatty Acid Docking](https://github.com/arundhathiharishchandra-20/rxra-fatty-acid-docking)**
-
-In-silico investigation of fatty acid interactions with Retinoid X Receptor Alpha through homology modeling and docking
 
 - Structural modelling via UCSF Chimera
 - 3D models built in Swiss-Model
@@ -79,20 +70,28 @@ In-silico investigation of fatty acid interactions with Retinoid X Receptor Alph
 
 `PyRx` `AutoDock Vina` `UCSF Chimera` `PyMOL`
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=arundhathiharishchandra-20&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=arundhathiharishchandra-20&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=arundhathiharishchandra-20&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=arundhathiharishchandra-20&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </td>
 </tr>
 </table>
 
 ---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=arundhathiharishchandra-20&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=arundhathiharishchandra-20&theme=merko&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=arundhathiharishchandra-20&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![](https://komarev.com/ghpvc/?username=arundhathiharishchandra-20&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
+---
+
 <div align="center">
 
 *Open to research and industry opportunities in bioinformatics and computational biology.*
