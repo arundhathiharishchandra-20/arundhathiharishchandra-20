@@ -103,9 +103,3 @@ In-silico investigation of fatty acid interactions with Retinoid X Receptor Alph
 </div>
 
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arundhathi-h-22bb48285)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/arundhathiharishchandra-20)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arundhathiharishchandra@gmail.com)
-ME_v2.md…]()
