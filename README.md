@@ -58,10 +58,14 @@ I'm a research student passionate about understanding cancer biology through com
 
 RNA-seq + WGBS pipeline for multi-omics epigenetic analysis of DLBCL lymphoma (129 patient samples, PRJNA605794)
 
+RNA-seq + WGBS pipeline for multi-omics epigenetic analysis
+of DLBCL lymphoma (129 patient samples, PRJNA605794)
+
 - FastQC → fastp → HISAT2 → featureCounts → edgeR
 - WGCNA co-expression network (11 modules, hub genes)
-- GO/KEGG pathway enrichment
-- MOFA2 integration *(in progress)*
+- Tile-based WGBS methylation quantification (methylKit)
+- RNA-methylation correlation + STRING network (740 significant genes)
+- MOFA2 multi-omics integration (10 factors, converged)
 
 `Python` `R` `Bash` `WGCNA` `Bismark`
 
