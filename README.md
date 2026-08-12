@@ -17,10 +17,10 @@
 
 I'm a research student passionate about understanding cancer biology through computational approaches. My dissertation focuses on **integrated multi-omics analysis of epigenetic modalities in Diffuse Large B-Cell Lymphoma (DLBCL)**, combining RNA-seq and Whole Genome Bisulfite Sequencing (WGBS) data. I also work on structural bioinformatics, studying protein-ligand interactions through molecular docking.
 
-- 🔭 **Currently working on:** MOFA2 multi-omics integration of RNA-seq + WGBS for DLBCL *(in progress)*
+- 🔭 Currently working on: Manuscript preparation for DLBCL multi-omics analysis
 - 🌱 **Learning:** Multi-omics integration, network biology, epigenomics
 - 💬 **Ask me about:** Bioinformatics pipelines, NGS analysis, molecular docking, R/Python for genomics
-- 📍 **Location:** Mangalore, Karnataka, India
+- 📍 **Location:** Bangalore, Karnataka, India
 
 ---
 
@@ -62,10 +62,10 @@ RNA-seq + WGBS pipeline for multi-omics epigenetic analysis
 of DLBCL lymphoma (129 patient samples, PRJNA605794)
 
 - FastQC → fastp → HISAT2 → featureCounts → edgeR
-- WGCNA co-expression network (11 modules, hub genes)
+- WGCNA co-expression network 
 - Tile-based WGBS methylation quantification (methylKit)
-- RNA-methylation correlation + STRING network (740 significant genes)
-- MOFA2 multi-omics integration (10 factors, converged)
+- RNA-methylation correlation + STRING network 
+- MOFA2 multi-omics integration 
 
 `Python` `R` `Bash` `WGCNA` `Bismark`
 
